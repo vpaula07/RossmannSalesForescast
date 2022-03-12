@@ -1,4 +1,4 @@
-# RossmannSalesForescast
+# Rossmann Sales Forescast
 
 ![Sales Forescast](img/rossmann.png)
 
